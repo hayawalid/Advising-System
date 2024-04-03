@@ -1,0 +1,4 @@
+﻿  advising.cpp
+C:\Users\a\source\repos\GuiAdvising\GuiAdvising\advising.cpp(126): warning C4715: 'advising::coursename': not all control paths return a value
+  advising.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GuiAdvising.vcxproj -> C:\Users\a\source\repos\GuiAdvising\x64\Debug\GuiAdvising.exe

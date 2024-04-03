@@ -1,0 +1,41 @@
+ Saturday			       
+8:30 10:30/10:30 12:00
+(Software Project Management)                                                                                            				 		
+1:00 2:00/2:30 4:00 
+(Artificial Intellegene) 
+
+   
+      Sunday            			 	
+    8:30 10:30 
+(Software Project Management)	
+     10:30 12:00 					
+(Artificial Intellegence)
+   2:30 4:00/1:00 2:00 	
+(Theory of Computation & Compiler Design)
+   2:30 4:00/4:00 6:00          
+     (Business Model)
+
+
+       Monday
+      10:30 12:00   						
+(Artificial Intellegence)
+        1:00 2:00 	
+(Theory of Computation & Compiler Design)
+        8:30 10:30 
+     (Business Model)
+
+
+     Tuesday
+     8:30 10:30 	
+(Theory of Computation & Compiler Design)
+     
+       
+      Wednesday
+      8:30 10:30 
+     (Business Model)
+
+
+       Thursday
+      8:30 10:30 
+(Software Project Management)				
+    

@@ -1,0 +1,10 @@
+        dld               lab dld
+sunday             8:30-10:00        2:45-4:45
+monday      math (lecture)        freshman                math (tutorial)
+              8:30-10:00         10:30-12:00                  1:00-3:00
+                 
+wednesday      problem solving          math (lecture)        freshman
+              8:30-10:00            8:30- 10:00           10:30-12:00
+               
+thursday      dld (lecture)      lab problem solving
+                   8:30-10:00           3:30-5:30

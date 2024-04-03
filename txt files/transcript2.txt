@@ -1,0 +1,7 @@
+202207542
+physics   A
+prob      F
+EAP       A      
+csc       A
+ethics    F
+GPA: 2.2

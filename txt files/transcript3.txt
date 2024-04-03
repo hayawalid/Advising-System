@@ -1,0 +1,8 @@
+ID: 202202743
+course name            
+Math          A
+programming   B
+EAP           B+        
+ENR           A
+Digital Logic B
+GPA:3.431

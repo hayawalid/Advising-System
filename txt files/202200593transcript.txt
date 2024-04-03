@@ -1,0 +1,7 @@
+ID:  202200593
+Artificial Intellegence                 |F
+Statistical Analysis	                |	B
+Image Processing    	                |	C+
+Software Engineering	                |	C-
+Ethics              	                |	C
+GPA:1.988
